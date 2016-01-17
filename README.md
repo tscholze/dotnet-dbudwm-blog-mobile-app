@@ -6,12 +6,12 @@ for this example I focused exclusively on the smartphone.
 ## How it looks
 
 <div style="text-align:center">
-	<a href="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/list.png">
-		<img src="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/list.png" height="300px" />
+	<a href="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/list.PNG">
+		<img src="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/list.PNG" height="300px" />
 	</a>
     
-    <a href="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/detail.png">
-		<img src="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/detail.png" height="300px" />
+    <a href="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/detail.PNG">
+		<img src="https://github.com/tscholze/dotnet-dbudwm-blog-mobile-app/blob/master/docs/detail.PNG" height="300px" />
 	</a>
 </div>
 
