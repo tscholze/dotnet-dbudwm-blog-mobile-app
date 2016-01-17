@@ -36,4 +36,4 @@ for this example I focused exclusively on the smartphone.
 * [iOS Version of the dbudwm app](https://itunes.apple.com/de/app/der-bayer-und-der-wurschtlmann/id1052855779?l=en&amp;mt=8)
 
 ## License 
-Quotes is licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License) License. 
+The App is licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License) License.
